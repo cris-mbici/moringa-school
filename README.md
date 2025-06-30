@@ -1,7 +1,7 @@
 # Aviation Risk Analysis
 
 ## Overview
-[Interactive Dashboard](https://public.tableau.com/app/profile/cris.mbici/viz/aviation_analysis/Dashboard1?publish=yes)
+[Interactive Dashboard](https://public.tableau.com/app/profile/cris.mbici/viz/aviation_analysis/Dashboard1?publish=yes). 
 This project analyzes aviation accident data to help our company make smart decisions about entering the aviation industry. Using 25 years of accident data from the National Transportation Safety Board (NTSB), we identified which aircraft types pose the lowest risk for both commercial and private operations. The analysis delivers three concrete business recommendations to guide aircraft purchasing decisions and minimize operational risks.
 
 ## Business Understanding
