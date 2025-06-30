@@ -39,12 +39,16 @@ The dataset includes detailed information about each aviation accident, includin
 
 #### 1. Aviation Incidents Trending Downward (2000-2023)
 A line chart showing annual accident counts from 2000 to 2023. The trend reveals improving aviation safety over time, with incidents dropping from ~1,680 in 2000 to ~1,130 in 2023. This 33% reduction demonstrates that aviation is getting significantly safer, which is good news for our business entry.
+![Aircraft Diagram](visuals/trend_time.png)
 
 #### 2. Fatal Injuries by Engine Type
 Bar charts comparing total fatal injuries across different engine types for both private and commercial flights. Reciprocating engines dominate fatality statistics with 16,000+ deaths in private flights alone, while turbine engines (turboprop, turbofan, turbojet) show dramatically lower death rates. This visualization clearly shows which engine types to avoid.
+![Aircraft Diagram](visuals/engines_private.png)
+![Aircraft Diagram](visuals/engines_commercial.png)
 
 #### 3. Mean Fatal Injuries by Weather and Flight Phase (Heatmap)
 A heatmap showing average fatalities based on weather conditions and flight phases. Unknown weather conditions show the highest fatality rates, particularly during climb (3.0) and cruise (4.3) phases. The visualization emphasizes the importance of flight planning and avoiding uncertain weather conditions.
+![Aircraft Diagram](visuals/weather_heatmap.png)
 
 ## Conclusion
 
